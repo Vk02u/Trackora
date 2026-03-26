@@ -101,16 +101,6 @@ The app is fully responsive and works on:
 - 📱 Tablets (768px+)
 - 💻 Laptops and Desktops (1024px+)
 
-## 🔥 Firebase Setup & Deployment
-
-Firebase connection और Vercel deployment के लिए detailed guide देखें:
-
-👉 **[DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md)** - Complete step-by-step guide
-
-**Quick Summary:**
-1. पहले Firebase से connect करें (local में test करें)
-2. फिर Vercel पर deploy करें
-3. Firebase में Vercel domain allow करें
 
 ## License
 
